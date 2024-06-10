@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+
+.label
+{
+    margin-left: 30px;
+}
+
+.div-style{
+
+    height: 10vh;
+    background-color: rgb(128, 158, 199);
+    border: 2px solid rgb(251, 248, 248);
+    margin: 20px 20px;
+
+}
+
+.div-container{
+
+    background-color: blue;
+    padding: 20px;
+
+}
+
